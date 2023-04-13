@@ -1,0 +1,48 @@
+C:\curso\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.csproj.AssemblyReference.cache
+C:\curso\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.AssemblyInfoInputs.cache
+C:\curso\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.AssemblyInfo.cs
+C:\curso\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.csproj.CoreCompileInputs.cache
+C:\curso\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\exercicios4-05-04-2023.exe
+C:\curso\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\exercicios4-05-04-2023.deps.json
+C:\curso\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\exercicios4-05-04-2023.runtimeconfig.json
+C:\curso\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\exercicios4-05-04-2023.runtimeconfig.dev.json
+C:\curso\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\exercicios4-05-04-2023.dll
+C:\curso\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\ref\exercicios4-05-04-2023.dll
+C:\curso\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\exercicios4-05-04-2023.pdb
+C:\curso\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.dll
+C:\curso\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\ref\exercicios4-05-04-2023.dll
+C:\curso\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.pdb
+C:\curso\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.genruntimeconfig.cache
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\prg\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\exercicios4-05-04-2023.exe
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\prg\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\exercicios4-05-04-2023.deps.json
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\prg\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\exercicios4-05-04-2023.runtimeconfig.json
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\prg\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\exercicios4-05-04-2023.runtimeconfig.dev.json
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\prg\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\exercicios4-05-04-2023.dll
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\prg\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\exercicios4-05-04-2023.pdb
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.csproj.AssemblyReference.cache
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.AssemblyInfoInputs.cache
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.AssemblyInfo.cs
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.csproj.CoreCompileInputs.cache
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.dll
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\refint\exercicios4-05-04-2023.dll
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.pdb
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.genruntimeconfig.cache
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\ref\exercicios4-05-04-2023.dll
+C:\Vareusin T-T\prg\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\exercicios4-05-04-2023.exe
+C:\Vareusin T-T\prg\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\exercicios4-05-04-2023.deps.json
+C:\Vareusin T-T\prg\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\exercicios4-05-04-2023.runtimeconfig.json
+C:\Vareusin T-T\prg\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\exercicios4-05-04-2023.runtimeconfig.dev.json
+C:\Vareusin T-T\prg\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\exercicios4-05-04-2023.dll
+C:\Vareusin T-T\prg\DevSistemas\exercicios4-05-04-2023\bin\Debug\net5.0\exercicios4-05-04-2023.pdb
+C:\Vareusin T-T\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.csproj.AssemblyReference.cache
+C:\Vareusin T-T\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vareusin T-T\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.AssemblyInfoInputs.cache
+C:\Vareusin T-T\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.AssemblyInfo.cs
+C:\Vareusin T-T\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.csproj.CoreCompileInputs.cache
+C:\Vareusin T-T\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.dll
+C:\Vareusin T-T\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\refint\exercicios4-05-04-2023.dll
+C:\Vareusin T-T\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.pdb
+C:\Vareusin T-T\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\exercicios4-05-04-2023.genruntimeconfig.cache
+C:\Vareusin T-T\prg\DevSistemas\exercicios4-05-04-2023\obj\Debug\net5.0\ref\exercicios4-05-04-2023.dll

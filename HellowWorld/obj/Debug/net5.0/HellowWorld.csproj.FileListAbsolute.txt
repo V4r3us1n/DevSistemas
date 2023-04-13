@@ -1,0 +1,16 @@
+C:\Users\osnir\Downloads\.net 5.0\curso\DevSistemas\HellowWorld\bin\Debug\net5.0\HellowWorld.exe
+C:\Users\osnir\Downloads\.net 5.0\curso\DevSistemas\HellowWorld\bin\Debug\net5.0\HellowWorld.deps.json
+C:\Users\osnir\Downloads\.net 5.0\curso\DevSistemas\HellowWorld\bin\Debug\net5.0\HellowWorld.runtimeconfig.json
+C:\Users\osnir\Downloads\.net 5.0\curso\DevSistemas\HellowWorld\bin\Debug\net5.0\HellowWorld.runtimeconfig.dev.json
+C:\Users\osnir\Downloads\.net 5.0\curso\DevSistemas\HellowWorld\bin\Debug\net5.0\HellowWorld.dll
+C:\Users\osnir\Downloads\.net 5.0\curso\DevSistemas\HellowWorld\bin\Debug\net5.0\ref\HellowWorld.dll
+C:\Users\osnir\Downloads\.net 5.0\curso\DevSistemas\HellowWorld\bin\Debug\net5.0\HellowWorld.pdb
+C:\Users\osnir\Downloads\.net 5.0\curso\DevSistemas\HellowWorld\obj\Debug\net5.0\HellowWorld.csproj.AssemblyReference.cache
+C:\Users\osnir\Downloads\.net 5.0\curso\DevSistemas\HellowWorld\obj\Debug\net5.0\HellowWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osnir\Downloads\.net 5.0\curso\DevSistemas\HellowWorld\obj\Debug\net5.0\HellowWorld.AssemblyInfoInputs.cache
+C:\Users\osnir\Downloads\.net 5.0\curso\DevSistemas\HellowWorld\obj\Debug\net5.0\HellowWorld.AssemblyInfo.cs
+C:\Users\osnir\Downloads\.net 5.0\curso\DevSistemas\HellowWorld\obj\Debug\net5.0\HellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\osnir\Downloads\.net 5.0\curso\DevSistemas\HellowWorld\obj\Debug\net5.0\HellowWorld.dll
+C:\Users\osnir\Downloads\.net 5.0\curso\DevSistemas\HellowWorld\obj\Debug\net5.0\ref\HellowWorld.dll
+C:\Users\osnir\Downloads\.net 5.0\curso\DevSistemas\HellowWorld\obj\Debug\net5.0\HellowWorld.pdb
+C:\Users\osnir\Downloads\.net 5.0\curso\DevSistemas\HellowWorld\obj\Debug\net5.0\HellowWorld.genruntimeconfig.cache
