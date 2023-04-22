@@ -1,0 +1,16 @@
+C:\Vareusin T-T\prg\DevSistemas\senac abril 2023\senac 19-04-2023\exercicios7-19-04-2023\bin\Debug\net5.0\exercicios7-19-04-2023.exe
+C:\Vareusin T-T\prg\DevSistemas\senac abril 2023\senac 19-04-2023\exercicios7-19-04-2023\bin\Debug\net5.0\exercicios7-19-04-2023.deps.json
+C:\Vareusin T-T\prg\DevSistemas\senac abril 2023\senac 19-04-2023\exercicios7-19-04-2023\bin\Debug\net5.0\exercicios7-19-04-2023.runtimeconfig.json
+C:\Vareusin T-T\prg\DevSistemas\senac abril 2023\senac 19-04-2023\exercicios7-19-04-2023\bin\Debug\net5.0\exercicios7-19-04-2023.runtimeconfig.dev.json
+C:\Vareusin T-T\prg\DevSistemas\senac abril 2023\senac 19-04-2023\exercicios7-19-04-2023\bin\Debug\net5.0\exercicios7-19-04-2023.dll
+C:\Vareusin T-T\prg\DevSistemas\senac abril 2023\senac 19-04-2023\exercicios7-19-04-2023\bin\Debug\net5.0\exercicios7-19-04-2023.pdb
+C:\Vareusin T-T\prg\DevSistemas\senac abril 2023\senac 19-04-2023\exercicios7-19-04-2023\obj\Debug\net5.0\exercicios7-19-04-2023.csproj.AssemblyReference.cache
+C:\Vareusin T-T\prg\DevSistemas\senac abril 2023\senac 19-04-2023\exercicios7-19-04-2023\obj\Debug\net5.0\exercicios7-19-04-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vareusin T-T\prg\DevSistemas\senac abril 2023\senac 19-04-2023\exercicios7-19-04-2023\obj\Debug\net5.0\exercicios7-19-04-2023.AssemblyInfoInputs.cache
+C:\Vareusin T-T\prg\DevSistemas\senac abril 2023\senac 19-04-2023\exercicios7-19-04-2023\obj\Debug\net5.0\exercicios7-19-04-2023.AssemblyInfo.cs
+C:\Vareusin T-T\prg\DevSistemas\senac abril 2023\senac 19-04-2023\exercicios7-19-04-2023\obj\Debug\net5.0\exercicios7-19-04-2023.csproj.CoreCompileInputs.cache
+C:\Vareusin T-T\prg\DevSistemas\senac abril 2023\senac 19-04-2023\exercicios7-19-04-2023\obj\Debug\net5.0\exercicios7-19-04-2023.dll
+C:\Vareusin T-T\prg\DevSistemas\senac abril 2023\senac 19-04-2023\exercicios7-19-04-2023\obj\Debug\net5.0\refint\exercicios7-19-04-2023.dll
+C:\Vareusin T-T\prg\DevSistemas\senac abril 2023\senac 19-04-2023\exercicios7-19-04-2023\obj\Debug\net5.0\exercicios7-19-04-2023.pdb
+C:\Vareusin T-T\prg\DevSistemas\senac abril 2023\senac 19-04-2023\exercicios7-19-04-2023\obj\Debug\net5.0\exercicios7-19-04-2023.genruntimeconfig.cache
+C:\Vareusin T-T\prg\DevSistemas\senac abril 2023\senac 19-04-2023\exercicios7-19-04-2023\obj\Debug\net5.0\ref\exercicios7-19-04-2023.dll
