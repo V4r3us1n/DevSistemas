@@ -1,0 +1,16 @@
+C:\curso\DevSistemas\exercicios 26-04-2023\rascunho_mic\obj\Debug\net5.0\rascunho_mic.csproj.AssemblyReference.cache
+C:\curso\DevSistemas\exercicios 26-04-2023\rascunho_mic\obj\Debug\net5.0\rascunho_mic.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\DevSistemas\exercicios 26-04-2023\rascunho_mic\obj\Debug\net5.0\rascunho_mic.AssemblyInfoInputs.cache
+C:\curso\DevSistemas\exercicios 26-04-2023\rascunho_mic\obj\Debug\net5.0\rascunho_mic.AssemblyInfo.cs
+C:\curso\DevSistemas\exercicios 26-04-2023\rascunho_mic\obj\Debug\net5.0\rascunho_mic.csproj.CoreCompileInputs.cache
+C:\curso\DevSistemas\exercicios 26-04-2023\rascunho_mic\bin\Debug\net5.0\rascunho_mic.exe
+C:\curso\DevSistemas\exercicios 26-04-2023\rascunho_mic\bin\Debug\net5.0\rascunho_mic.deps.json
+C:\curso\DevSistemas\exercicios 26-04-2023\rascunho_mic\bin\Debug\net5.0\rascunho_mic.runtimeconfig.json
+C:\curso\DevSistemas\exercicios 26-04-2023\rascunho_mic\bin\Debug\net5.0\rascunho_mic.runtimeconfig.dev.json
+C:\curso\DevSistemas\exercicios 26-04-2023\rascunho_mic\bin\Debug\net5.0\rascunho_mic.dll
+C:\curso\DevSistemas\exercicios 26-04-2023\rascunho_mic\bin\Debug\net5.0\ref\rascunho_mic.dll
+C:\curso\DevSistemas\exercicios 26-04-2023\rascunho_mic\bin\Debug\net5.0\rascunho_mic.pdb
+C:\curso\DevSistemas\exercicios 26-04-2023\rascunho_mic\obj\Debug\net5.0\rascunho_mic.dll
+C:\curso\DevSistemas\exercicios 26-04-2023\rascunho_mic\obj\Debug\net5.0\ref\rascunho_mic.dll
+C:\curso\DevSistemas\exercicios 26-04-2023\rascunho_mic\obj\Debug\net5.0\rascunho_mic.pdb
+C:\curso\DevSistemas\exercicios 26-04-2023\rascunho_mic\obj\Debug\net5.0\rascunho_mic.genruntimeconfig.cache

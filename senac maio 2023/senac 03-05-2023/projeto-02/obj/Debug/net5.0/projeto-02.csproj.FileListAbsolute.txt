@@ -1,0 +1,16 @@
+C:\curso\DevSistemas\exercicios 02-05-2023\projeto-02\bin\Debug\net5.0\projeto-02.exe
+C:\curso\DevSistemas\exercicios 02-05-2023\projeto-02\bin\Debug\net5.0\projeto-02.deps.json
+C:\curso\DevSistemas\exercicios 02-05-2023\projeto-02\bin\Debug\net5.0\projeto-02.runtimeconfig.json
+C:\curso\DevSistemas\exercicios 02-05-2023\projeto-02\bin\Debug\net5.0\projeto-02.runtimeconfig.dev.json
+C:\curso\DevSistemas\exercicios 02-05-2023\projeto-02\bin\Debug\net5.0\projeto-02.dll
+C:\curso\DevSistemas\exercicios 02-05-2023\projeto-02\bin\Debug\net5.0\ref\projeto-02.dll
+C:\curso\DevSistemas\exercicios 02-05-2023\projeto-02\bin\Debug\net5.0\projeto-02.pdb
+C:\curso\DevSistemas\exercicios 02-05-2023\projeto-02\obj\Debug\net5.0\projeto-02.csproj.AssemblyReference.cache
+C:\curso\DevSistemas\exercicios 02-05-2023\projeto-02\obj\Debug\net5.0\projeto-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\DevSistemas\exercicios 02-05-2023\projeto-02\obj\Debug\net5.0\projeto-02.AssemblyInfoInputs.cache
+C:\curso\DevSistemas\exercicios 02-05-2023\projeto-02\obj\Debug\net5.0\projeto-02.AssemblyInfo.cs
+C:\curso\DevSistemas\exercicios 02-05-2023\projeto-02\obj\Debug\net5.0\projeto-02.csproj.CoreCompileInputs.cache
+C:\curso\DevSistemas\exercicios 02-05-2023\projeto-02\obj\Debug\net5.0\projeto-02.dll
+C:\curso\DevSistemas\exercicios 02-05-2023\projeto-02\obj\Debug\net5.0\ref\projeto-02.dll
+C:\curso\DevSistemas\exercicios 02-05-2023\projeto-02\obj\Debug\net5.0\projeto-02.pdb
+C:\curso\DevSistemas\exercicios 02-05-2023\projeto-02\obj\Debug\net5.0\projeto-02.genruntimeconfig.cache

@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Vareusin T-T\\prg\\DevSistemas\\Solucoes\\SolucaoExercicio01\\Exercicio01.ConsoleApp\\Exercicio01.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Vareusin T-T\\prg\\DevSistemas\\Solucoes\\SolucaoExercicio01\\Exercicio01.Classes\\Exercicio01.Classes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Vareusin T-T\\prg\\DevSistemas\\Solucoes\\SolucaoExercicio01\\Exercicio01.Classes\\Exercicio01.Classes.csproj",
+        "projectName": "Exercicio01.Classes",
+        "projectPath": "C:\\Vareusin T-T\\prg\\DevSistemas\\Solucoes\\SolucaoExercicio01\\Exercicio01.Classes\\Exercicio01.Classes.csproj",
+        "packagesPath": "C:\\Users\\jackp\\.nuget\\packages\\",
+        "outputPath": "C:\\Vareusin T-T\\prg\\DevSistemas\\Solucoes\\SolucaoExercicio01\\Exercicio01.Classes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jackp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Vareusin T-T\\prg\\DevSistemas\\Solucoes\\SolucaoExercicio01\\Exercicio01.ConsoleApp\\Exercicio01.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Vareusin T-T\\prg\\DevSistemas\\Solucoes\\SolucaoExercicio01\\Exercicio01.ConsoleApp\\Exercicio01.ConsoleApp.csproj",
+        "projectName": "Exercicio01.ConsoleApp",
+        "projectPath": "C:\\Vareusin T-T\\prg\\DevSistemas\\Solucoes\\SolucaoExercicio01\\Exercicio01.ConsoleApp\\Exercicio01.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\jackp\\.nuget\\packages\\",
+        "outputPath": "C:\\Vareusin T-T\\prg\\DevSistemas\\Solucoes\\SolucaoExercicio01\\Exercicio01.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jackp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Vareusin T-T\\prg\\DevSistemas\\Solucoes\\SolucaoExercicio01\\Exercicio01.Classes\\Exercicio01.Classes.csproj": {
+                "projectPath": "C:\\Vareusin T-T\\prg\\DevSistemas\\Solucoes\\SolucaoExercicio01\\Exercicio01.Classes\\Exercicio01.Classes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

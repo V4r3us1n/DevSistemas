@@ -1,0 +1,12 @@
+C:\Vareusin T-T\prg\DevSistemas\Solucoes\SolucaoExercicio02\Exercicio02.Classes\bin\Debug\net5.0\Exercicio02.Classes.deps.json
+C:\Vareusin T-T\prg\DevSistemas\Solucoes\SolucaoExercicio02\Exercicio02.Classes\bin\Debug\net5.0\Exercicio02.Classes.dll
+C:\Vareusin T-T\prg\DevSistemas\Solucoes\SolucaoExercicio02\Exercicio02.Classes\bin\Debug\net5.0\Exercicio02.Classes.pdb
+C:\Vareusin T-T\prg\DevSistemas\Solucoes\SolucaoExercicio02\Exercicio02.Classes\obj\Debug\net5.0\Exercicio02.Classes.csproj.AssemblyReference.cache
+C:\Vareusin T-T\prg\DevSistemas\Solucoes\SolucaoExercicio02\Exercicio02.Classes\obj\Debug\net5.0\Exercicio02.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vareusin T-T\prg\DevSistemas\Solucoes\SolucaoExercicio02\Exercicio02.Classes\obj\Debug\net5.0\Exercicio02.Classes.AssemblyInfoInputs.cache
+C:\Vareusin T-T\prg\DevSistemas\Solucoes\SolucaoExercicio02\Exercicio02.Classes\obj\Debug\net5.0\Exercicio02.Classes.AssemblyInfo.cs
+C:\Vareusin T-T\prg\DevSistemas\Solucoes\SolucaoExercicio02\Exercicio02.Classes\obj\Debug\net5.0\Exercicio02.Classes.csproj.CoreCompileInputs.cache
+C:\Vareusin T-T\prg\DevSistemas\Solucoes\SolucaoExercicio02\Exercicio02.Classes\obj\Debug\net5.0\Exercicio02.Classes.dll
+C:\Vareusin T-T\prg\DevSistemas\Solucoes\SolucaoExercicio02\Exercicio02.Classes\obj\Debug\net5.0\refint\Exercicio02.Classes.dll
+C:\Vareusin T-T\prg\DevSistemas\Solucoes\SolucaoExercicio02\Exercicio02.Classes\obj\Debug\net5.0\Exercicio02.Classes.pdb
+C:\Vareusin T-T\prg\DevSistemas\Solucoes\SolucaoExercicio02\Exercicio02.Classes\obj\Debug\net5.0\ref\Exercicio02.Classes.dll

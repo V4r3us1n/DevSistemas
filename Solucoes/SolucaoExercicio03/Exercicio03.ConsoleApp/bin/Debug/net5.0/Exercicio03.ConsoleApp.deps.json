@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio03.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Exercicio03.Classes": "1.0.0"
+        },
+        "runtime": {
+          "Exercicio03.ConsoleApp.dll": {}
+        }
+      },
+      "Exercicio03.Classes/1.0.0": {
+        "runtime": {
+          "Exercicio03.Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio03.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercicio03.Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

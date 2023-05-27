@@ -1,0 +1,16 @@
+C:\curso\DevSistemas\exercicios 27-04-2023\projeto-27-04-2023\obj\Debug\net5.0\projeto-27-04-2023.csproj.AssemblyReference.cache
+C:\curso\DevSistemas\exercicios 27-04-2023\projeto-27-04-2023\obj\Debug\net5.0\projeto-27-04-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\DevSistemas\exercicios 27-04-2023\projeto-27-04-2023\obj\Debug\net5.0\projeto-27-04-2023.AssemblyInfoInputs.cache
+C:\curso\DevSistemas\exercicios 27-04-2023\projeto-27-04-2023\obj\Debug\net5.0\projeto-27-04-2023.AssemblyInfo.cs
+C:\curso\DevSistemas\exercicios 27-04-2023\projeto-27-04-2023\obj\Debug\net5.0\projeto-27-04-2023.csproj.CoreCompileInputs.cache
+C:\curso\DevSistemas\exercicios 27-04-2023\projeto-27-04-2023\bin\Debug\net5.0\projeto-27-04-2023.exe
+C:\curso\DevSistemas\exercicios 27-04-2023\projeto-27-04-2023\bin\Debug\net5.0\projeto-27-04-2023.deps.json
+C:\curso\DevSistemas\exercicios 27-04-2023\projeto-27-04-2023\bin\Debug\net5.0\projeto-27-04-2023.runtimeconfig.json
+C:\curso\DevSistemas\exercicios 27-04-2023\projeto-27-04-2023\bin\Debug\net5.0\projeto-27-04-2023.runtimeconfig.dev.json
+C:\curso\DevSistemas\exercicios 27-04-2023\projeto-27-04-2023\bin\Debug\net5.0\projeto-27-04-2023.dll
+C:\curso\DevSistemas\exercicios 27-04-2023\projeto-27-04-2023\bin\Debug\net5.0\ref\projeto-27-04-2023.dll
+C:\curso\DevSistemas\exercicios 27-04-2023\projeto-27-04-2023\bin\Debug\net5.0\projeto-27-04-2023.pdb
+C:\curso\DevSistemas\exercicios 27-04-2023\projeto-27-04-2023\obj\Debug\net5.0\projeto-27-04-2023.dll
+C:\curso\DevSistemas\exercicios 27-04-2023\projeto-27-04-2023\obj\Debug\net5.0\ref\projeto-27-04-2023.dll
+C:\curso\DevSistemas\exercicios 27-04-2023\projeto-27-04-2023\obj\Debug\net5.0\projeto-27-04-2023.pdb
+C:\curso\DevSistemas\exercicios 27-04-2023\projeto-27-04-2023\obj\Debug\net5.0\projeto-27-04-2023.genruntimeconfig.cache

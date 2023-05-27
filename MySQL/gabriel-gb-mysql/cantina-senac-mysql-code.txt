@@ -1,0 +1,222 @@
+#Criando Banco de Dados
+
+create database cantina_senac;
+
+use cantina_senac;
+
+#Criando Tabela tb_clientes
+
+create table tb_clientes (
+    id_cliente int primary key auto_increment,
+    nome_cliente varchar(50),
+    cpf_cliente varchar(11),
+    endereco_id int
+);
+
+#Criando Tabela tb_produtos
+
+create table tb_produtos (
+    id_produto int primary key auto_increment,
+    descricao_produto varchar(50),
+    preco_produto decimal,
+    categoria_id int
+);
+
+#Criando Tabela tb_vendas
+
+create table tb_vendas (
+    id_venda int primary key auto_increment,
+    data_venda date,
+    valor_total decimal,
+    forma_pagamento varchar(30),
+    cliente_id int
+);
+
+#Criando Tabela tb-itens_venda
+
+create table tb_itens_venda (
+    id_itens_venda int primary key auto_increment,
+    produto_id int,
+    quantidade int,
+    valor decimal,
+    venda_id int,
+    funcionario_id int
+);
+
+#Criando Tabela tb_enderecos
+
+create table tb_enderecos (
+    id_endereco int primary key auto_increment,
+    logradouro varchar(50),
+    numero int,
+    complemento varchar(50),
+    cep varchar(8),
+    bairro varchar(20),
+    cidade_id int
+);
+
+#Criando Tabela tb_cidades
+
+create table tb_cidades (
+    id_cidade int primary key auto_increment,
+    descricao_cidade varchar(50),
+    uf_id int
+);
+
+#Criando Tabela tb_uf
+
+create table tb_uf (
+    id_uf int primary key auto_increment,
+    descricao_uf varchar(2)
+);
+
+#Criando Tabela tb_categorias_produto
+
+create table tb_categorias_produto (
+    id_categoria int primary key auto_increment,
+    descricao_categoria varchar(30)
+);
+
+#Criando Tabela tb_funcionarios
+
+create table tb_funcionarios (
+    id_funcionario int primary key auto_increment,
+    nome_funcionario varchar(50),
+    cpf_funcionario varchar(11),
+    endereco_id int,
+    funcao_id int
+);
+
+#Criando Tabela tb_funcoes
+
+create table tb_funcoes (
+    id_funcao int primary key auto_increment,
+    descricao_funcao varchar(50),
+    salario_funcao decimal
+);
+
+#Criando Tabela tb_compras
+
+create table tb_compras (
+    id_compra int primary key auto_increment,
+    data_compra date,
+    valor_total decimal,
+    funcionario_id int,
+    fornecedor_id int
+);
+
+#Criando Tabela tb_fornecedores
+
+create table tb_fornecedores (
+    id_fornecedor int primary key auto_increment,
+    nome_fornecedor varchar(50),
+    endereco_id int
+);
+
+#Criando Tabela tb_itens_compra
+
+create table tb_itens_compra (
+    id_itens_compra int primary key auto_increment,
+    produto_id int,
+    quantidade int,
+    valor decimal,
+    compra_id int
+);
+
+#Ligando a tb_cidades com a tb_uf
+
+alter table tb_cidades
+add constraint FK_cidade_uf
+foreign key (uf_id)
+references tb_uf(id_uf);
+
+#Ligando a tb_enderecos com a tb_cidades
+
+alter table tb_enderecos
+add constraint FK_endereco_cidade
+foreign key (cidade_id)
+references tb_cidades(id_cidade);
+
+#Ligando a tb_clientes com a tb_enderecos
+
+alter table tb_clientes
+add constraint FK_cliente_endereco
+foreign key (endereco_id)
+references tb_enderecos(id_endereco);
+
+#Ligando a tb_fornecedores  com a tb_enderecos
+
+alter table tb_fornecedores
+add constraint FK_fornecedor_endereco
+foreign key (endereco_id)
+references tb_enderecos(id_endereco);
+
+#Ligando a tb_funcionarios com a tb_enderecos
+
+alter table tb_funcionarios
+add constraint FK_funcionario_endereco
+foreign key (endereco_id)
+references tb_enderecos(id_endereco);
+
+#Ligando a tb_funcionarios com a tb_funcoes
+
+alter table tb_funcionarios
+add constraint FK_funcionario_funcao
+foreign key (funcao_id)
+references tb_funcoes(id_funcao);
+
+#Ligando a tb_produtos com a tb_categorias_produto
+
+alter table tb_produtos
+add constraint FK_produto_categoria
+foreign key (categoria_id)
+references tb_categorias_produto(id_categoria);
+
+#Ligando a tb_vendas com a tb_clientes
+
+alter table tb_vendas
+add constraint FK_venda_cliente
+foreign key (cliente_id)
+references tb_clientes(id_cliente);
+
+#Ligando a tb_itens_venda com a tb_vendas
+
+alter table tb_itens_venda
+add constraint FK_intens_venda_venda
+foreign key (venda_id)
+references tb_vendas(id_venda);
+
+#Ligando a tb_itens_venda com a tb_funcionarios
+
+alter table tb_itens_venda
+add constraint FK_intens_venda_funcionario
+foreign key (funcionario_id)
+references tb_funcionarios(id_funcionario);
+
+#Ligando a tb_itens_venda com a tb_produtos
+
+alter table tb_itens_venda
+add constraint FK_intens_venda_produto
+foreign key (produto_id)
+references tb_produtos(id_produto);
+
+#Ligando a tb_compras com a tb_funcionarios
+
+alter table tb_compras
+add constraint FK_compra_funcionario
+foreign key (funcionario_id)
+references tb_funcionarios(id_funcionario);
+
+#Ligando a tb_compras com a tb_fornecedores
+
+alter table tb_compras
+add constraint FK_compra_fornecedor
+foreign key (fornecedor_id)
+references tb_fornecedores(id_fornecedor);
+
+#Ligando a tb_itens_compra com a tb_compras
+
+alter table tb_itens_compra
+add constraint FK_itens_compra_compra
+foreign key (compra_id)
+references tb_compras(id_compra);
